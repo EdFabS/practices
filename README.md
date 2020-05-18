@@ -4,7 +4,9 @@ Practices to program is a stack of basic algorithms
 
 ## Getting Started
 
-Aid to learn to program and practice your skills, it is not true, is for me, to learn.
+Aid to learn to program and practice your skills. 
+
+It is not true, is for me, to learn.
 
 <!-- ### Prerequisites
 
